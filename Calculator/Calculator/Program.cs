@@ -43,7 +43,7 @@ namespace Calculator
                     {
                         loop = false;
                     }
-                }else if(operation == "Multiply" || operation == "*")
+                }else if(operation == "multiply" || operation == "*")
                 {
                     int final = first * second;
                     Console.WriteLine("Your final number is " + final + ". Would you like to go again?");
