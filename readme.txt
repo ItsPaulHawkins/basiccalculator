@@ -1,1 +1,1 @@
-Hey! Thanks for dropping by! Feel free to use this super basic calculator to do whatever the hell you want to do with it.
+Hey! Thanks for dropping by! Feel free to use this super basic calculator to do whatever..
