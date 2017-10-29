@@ -68,7 +68,7 @@ namespace Calculator
                 Console.WriteLine("Your final number is " + (num1 / num2));
             }
         }
-        public static void againMethod(string str1)
+        public static void againMethod(string str1) //creates a loop if true 
         {
             
             if(str1 == "yes")
